@@ -3,7 +3,8 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
+# Ignore the .gitignore file
+.gitignore
 # Virtual environments
 venv/
 env/
