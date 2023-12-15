@@ -3,8 +3,13 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
 # Ignore the .gitignore file
 .gitignore
+
+# Ignore the license file
+LICENSE
+
 # Virtual environments
 venv/
 env/
