@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+__env__/
+.venv/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE files
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Compiled Python files
+*.pyc
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled bytecode
+*.pyc
+__pycache__/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# MyPy
+.mypy_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
