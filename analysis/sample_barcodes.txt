@@ -1,0 +1,6 @@
+# Sample barcode mapping file for ENGRAM DTT analysis
+# Format: barcode_sequence<tab>barcode_name
+# Lines starting with # are ignored
+GTT	Dox
+ACA	Wnt
+TGG	Control
